@@ -11,7 +11,6 @@ int main() {
 
         total += number - '0';
     }
-
     
     printf("%d",total);
 

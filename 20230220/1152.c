@@ -4,7 +4,7 @@ int main() {
     char str[1000001], *p;
     int count = 0;
     scanf("%[^\n]s",str);
-
+    
     for (p=str;p<=str+strlen(str);p++){
         if (*p == ' '&&*(p+1)=='\0') {
             if (p==str) break;

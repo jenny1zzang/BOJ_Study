@@ -5,7 +5,6 @@ int main() {
     int max, min;
     scanf("%d",&N);
 
-    
     for (i=0;i<N;i++){
         scanf("%d",&n);
         if (i==0) {

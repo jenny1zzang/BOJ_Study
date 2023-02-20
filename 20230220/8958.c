@@ -5,7 +5,7 @@ int main() {
     int N, count, total, i;
     char str[81], *p;
     scanf("%d",&N);
-
+    
     for (i=0;i<N;i++){
         scanf("%s",str);
         p = str;

@@ -6,6 +6,6 @@ int main() {
         if (scanf("%d %d",&a,&b) == EOF) break;
         printf("%d\n",a+b);
     }
-
+    
     return 0;
 }
